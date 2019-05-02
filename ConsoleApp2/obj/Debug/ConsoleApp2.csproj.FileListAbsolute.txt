@@ -1,0 +1,14 @@
+C:\Users\Lemtzas\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Lemtzas\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Lemtzas\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Lemtzas\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\OpenMacroBoard.SDK.dll
+C:\Users\Lemtzas\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\StreamDeckSharp.dll
+C:\Users\Lemtzas\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\OpenMacroBoard.SDK.pdb
+C:\Users\Lemtzas\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\OpenMacroBoard.SDK.xml
+C:\Users\Lemtzas\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\StreamDeckSharp.pdb
+C:\Users\Lemtzas\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\StreamDeckSharp.xml
+C:\Users\Lemtzas\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\Lemtzas\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Lemtzas\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\Lemtzas\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Lemtzas\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
